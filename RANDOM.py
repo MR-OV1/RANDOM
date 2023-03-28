@@ -1,1 +1,2 @@
 import RANDOM
+RANDOM.menu()
