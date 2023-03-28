@@ -1,2 +1,0 @@
-import RANDOM
-RANDOM.Psycho()
