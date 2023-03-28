@@ -1,2 +1,2 @@
 import RANDOM
-RANDOM.menu()
+RANDOM.Psycho()
