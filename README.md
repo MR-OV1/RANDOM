@@ -6,4 +6,4 @@ git clone https://github.com/MR-OV1/RANDOM
 
 cd RANDOM
 
-python3 Test.py
+python3 LITE.py
